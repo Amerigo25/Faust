@@ -9,7 +9,7 @@ Nel seguente video viene mostrato l'utilizzo della scheda. Strumentazione utiliz
 - SHARC Audio Module
 - ICE 1000 JTAG Emulator
 - Korg Volca Beats (sorgente di audio)
-- 
+
 Gli effetti testati, Flanger e Ring Modulator, sono contenuti nella libreria *Audio Effects* inclusa nel *Bare Metal Framework*.
 
 https://user-images.githubusercontent.com/93442930/174820989-b1526574-349d-4a61-a85b-a3a5d0002b76.mp4
