@@ -7,6 +7,7 @@ In particolare per ogni algoritmo vengono generati tre file con estensione *.cpp
 
 Nel seguente video viene mostrato l'utilizzo della scheda. Strumentazione utilizzata:
 - SHARC Audio Module
+- Audio Project Fin
 - ICE 1000 JTAG Emulator
 - Korg Volca Beats (sorgente di audio)
 
